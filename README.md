@@ -1,4 +1,4 @@
-# Lemonade App
+#Tip Calculator
 
 ## Overview
 A simple android app that mimicks the juicing of a lemon.
@@ -9,7 +9,7 @@ Long tapping on the lemon shows the user the number of squeezes they made inorde
 * Responding to users tap on their phone through `SetOnClickListener` lambda function or long tapping using `SetOnLongClickListener` lambda function.
 * Saving the state of the app when put in background or closed by the users.
 * Transistioning between states and using Snackbars.
-* Using Android ConstraintLayout.
+* Using Googles's Material 
 
 ## Building the App
 This project was built using gradle 8.0.*
